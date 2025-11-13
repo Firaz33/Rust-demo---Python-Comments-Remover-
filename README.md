@@ -43,6 +43,9 @@ To build the Comments Remover yourself, you'll need Rust and Cargo installed.
 
 For immediate use, you can download a pre-compiled executable from the [releases](https://github.com/EmberNoGlow/Rust-demo---Python-Comments-Remover-/releases) page of this repository.
 
+### Run
+Compile and run the program. You'll see a command prompt waiting to enter the path to your python script where you want to remove comments. Paste the path, and then he will ask for the path to save the file. Specify it. Press enter. If everything went well, the program will display "Success", close, and you will have a clean python file without comments!
+
 ### License
 
 This project is proudly licensed under the **Creative Commons Zero (CC0) License**.
