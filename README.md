@@ -2,6 +2,12 @@
 
 Effortlessly clean up your Python code!
 
+[![CC0](https://img.shields.io/badge/CC0-Public%20Domain-brightgreen)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Rust](https://img.shields.io/badge/Rust-1.91-orange)](https://www.rust-lang.org/)
+[![Cargo](https://img.shields.io/badge/cargo-red)](https://crates.io/)
+[![GitHub Stars](https://img.shields.io/github/stars/EmberNoGlow/Rust-demo---Python-Comments-Remover-?style=social)](https://github.com/EmberNoGlow/Rust-demo---Python-Comments-Remover-/stargazers)
+
+
 Comments Remover is a small, yet powerful, utility written in **Rust** for the primary purpose of **removing comments from Python scripts**. Whether you're decluttering a large codebase, preparing code for presentations, or simply want a cleaner view of the logic, this tool is designed to help.
 
 ### Purpose & Technology
@@ -25,17 +31,17 @@ Comments Remover is a small, yet powerful, utility written in **Rust** for the p
 To build the Comments Remover yourself, you'll need Rust and Cargo installed.
 1.  Clone this repository:
     ```bash
-    git clone <URL>
+    git clone https://github.com/EmberNoGlow/Rust-demo---Python-Comments-Remover-.git
     cd comments-remover
     ```
 2.  Compile the project:
     ```bash
-    cargo build --release
+    cargo build
     ```
 
 #### Using Pre-compiled Binaries
 
-For immediate use, you can download a pre-compiled executable from the **[Releases](<add_link>)** page of this repository.
+For immediate use, you can download a pre-compiled executable from the [releases](https://github.com/EmberNoGlow/Rust-demo---Python-Comments-Remover-/releases) page of this repository.
 
 ### License
 
